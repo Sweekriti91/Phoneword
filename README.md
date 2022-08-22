@@ -4,4 +4,4 @@ Sample code from MSLearn Module : https://docs.microsoft.com/en-us/learn/modules
 
 ## DevOps
 
-Adding a basic DevOps pipeline for this project. For all yaml files, look inside [workflows](\.github\workflows) folder.
+Adding a basic DevOps pipeline for this project. For all yaml files, look inside [workflows](.github/workflows) folder.
